@@ -4,17 +4,19 @@ based on recipe from [Sally's Baking](https://sallysbakingaddiction.com/seriousl
 ## Ingredients 
 1. 3/4 cup unsalted butter 
     - temperature doesn't matter here, because it will be melted later 
-2. 4 oz dark baking chocolate bar 
+2. 2 oz dark baking chocolate bar 
     - do NOT substitute for normal eating chocolate bar. Baking chocolate has lower melting temperature, which makes it easier to work with 
     - I personally use 60-75% dark bars, but semisweet should work too 
 3. 1 2/3 cups granulated white sugar 
     - exact amount can be adjusted to taste, the original recipe calls for 2 cups. Sugar contributes to both flavor and moisture in brownie, so lowering sugar to below 1 1/2 cup might start creating a noticeable difference in texture 
-    - recommend using white sugar. I tried brownie sugar, and the molasses taste in brownie sugar does not work well with chocolate 
+    - recommend using white sugar. I tried brown sugar, and the molasses taste in brown sugar does not work well with chocolate 
 4. salt, generous pinch 
     - absolutely required. salt allow all the flavors to be tasted 
 5. 3 large eggs, room temp 
-6. vanilla extract, a splash 
-7. almond extract, a few drops 
+6. vanilla extract, a splash, optional
+7. almond extract, a few drops, optional 
+8. espresso powder, pinch, optional 
+    - coffee helps bring out the chocolate flavor 
 8. 1 cup unsweetened cocoa powder 
 9. 1/2 tsp baking powder 
 10. 3/4 cup all purpose flour, unsifted 
