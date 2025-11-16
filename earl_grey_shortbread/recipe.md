@@ -15,7 +15,8 @@ based on recipe from [An Italian in My Kitchen](https://anitalianinmykitchen.com
     - I like to use a mix of earl grey and lady grey. lady grey is more citrusy and uses a mix of lemon and orange peels instead of bergamot, which adds a brighter note to the cookies
 6. 2 egg yolks, room temperature 
     - eggs are easier to separate when cold 
-7. 2 1/4 cup all purpose flour
+7. 2 cups all purpose flour, packed 
+    - does not need to be sifted 
 8. milk chocolate chips, to taste 
 9. dash of vanilla extract 
 
@@ -24,7 +25,7 @@ based on recipe from [An Italian in My Kitchen](https://anitalianinmykitchen.com
     - the original recipe, and probably most recipes, says to do this with a mixer, but this step can actually be done easily by hand with a fork or even a butter knife, just soften the butter a bit more 
 2. add the eggs yolks and vallina extract, mix well 
 3. add the flour and milk chocolate chips, and mix until just combined. add extra flour if needed to get the right consistency 
-    - the dough will be soft, but still able to be shaped. should be a bit stiffer than traditional chocolate chip cookie dough before it is chilled 
+    - the dough will be crumbly, but can still be brought together to form a dough  
 4. prepare two pieces of platics food wraps. divide the dough into two half, and shape each half into a rough log, place on the plastic wrap, and use the wrap to help shape each log into a rectangular prism with approximately 1.5x1.5 in cross section. wrap with the plastic wrap and transfer to the refridgerator to chill for >4 hours 
     - I like shaping the dough to prisms instead of the traditional cylinders because it makes cutting easier in step 6
 5. preheat oven to 300 F with convection 
